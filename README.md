@@ -1,10 +1,7 @@
+....
+tentando achar o jeito de me apresentar. oi rsrsrs
 
 
-## 🤗 Welcome to my github! I'm iaiakedemy, a constantly growing developer!
-## 🎉 Seja muito bem-vindo ao meu github!! Sou a iaiakedemy no mundo dos devs, uma desenvolvedora em constante crescimento!
-## 🤩 ¡Bienvenidos a mi Github! Soy iaiakedemy, una desarrolladora en constante crecimiento.
-
-### 🌎 Iaiakedemy is my personal akedemy of constant learning process, here i keep my learning process about codeUniverse. I identify my self so much in the ideia, concept, and the practice of open source, i think that open source is the most beatyfull demostration what humans are good at, shows in a pratical way our interconectivity and interdependenci to grow and construct things. I'm courius brazilian, at the moment i just started (in the begginig of 2025) study in the universe of coding, i'm finding myself and my losted hope in this process. My github is focus on documantating this learning process, showing the construction of my skills and practical apllications of what am i learning and working on.
 
 ### I speak portuguese, english and i'm learning spanish!
 
