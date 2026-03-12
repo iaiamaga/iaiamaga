@@ -1,9 +1,20 @@
 ....
-tentando achar o jeito de me apresentar. oi rsrsrs
+
+Tá fazendo o que aqui extrangeiro?
+
+De qualquer forma, oi rsrs...
+
+Maga aqui!
+// < no futuro: imagem da maga aqui >
+
+Ou melhor, seja bem-vind@ ao lab da Maga! 
+Meu objetivo é me tornar super poderosa nas artes da segurança, programação e desenvolvimento, especialmente na linguagem Rust (rsrs), e também viajar e contribuir com o universo das tecnologias de registro distribuído.
+
+Minha jornada começou meio caótica e sem propósito, mas depois de um ano acho que começei a encontear no que me faz sentido e no que quero focar, e tudo começou com as Blockchains! 
+
+curiosa e animada com oq vem pela frente :) 
 
 
-
-### I speak portuguese, english and i'm learning spanish!
 
  <div>
    <a href="https://github.com/iaiamaga">
@@ -19,7 +30,7 @@ tentando achar o jeito de me apresentar. oi rsrsrs
  
 <br>
  
-### Para contato, endereço logo abaixo!
+### Ficou afim de bater um papo ou aprender junto? Me dá um alô:
  
 <div> 
   <a href = "magaiaiabubar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
