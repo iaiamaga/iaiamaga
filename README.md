@@ -1,6 +1,6 @@
 ....
 
-Tá fazendo o que aqui extrangeiro?
+Tá fazendo o que aqui estrangeiro?
 
 De qualquer forma, oi rsrs...
 
