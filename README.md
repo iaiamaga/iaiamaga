@@ -1,18 +1,14 @@
-....
 
-Tá fazendo o que aqui estrangeiro?
 
-De qualquer forma, oi rsrs...
+                                                                                ## #
+                         ^                             ^                       # #                      
+      ^    ^            /|\            ^    ^         /|\ ^                   ##         ^              
+  ^  /|\  /|\  ^        /|\  ^     ^  /|\  /|\  ^     /|\/|\    ^          __||         /|\ ^    ^   ^ 
+ /|\ /|\  /|\ /|\       /|\ /|\   /|\ /|\  /|\ /|\    /|\/|\   /|\        /.\__\        /|\/|\  /|\ /|\
+ .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\
 
-Maga aqui!
-// < no futuro: imagem da maga aqui >
-
-Ou melhor, seja bem-vind@ ao lab da Maga! 
-Meu objetivo é me tornar super poderosa nas artes da segurança, programação e desenvolvimento, especialmente na linguagem Rust (rsrs), e também viajar e contribuir com o universo das tecnologias de registro distribuído.
-
-Minha jornada começou meio caótica e sem propósito, mas depois de um ano acho que começei a encontear no que me faz sentido e no que quero focar, e tudo começou com as Blockchains! 
-
-curiosa e animada com oq vem pela frente :) 
+Bem-vind@ ao lab da Maga! 
+:) 
 
 
 
